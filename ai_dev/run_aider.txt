@@ -1,0 +1,2 @@
+export CODESTRAL_API_KEY=$(cat ai_dev/codestral_api.txt)
+aider --model codestral/codestral-latest
